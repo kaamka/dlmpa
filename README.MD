@@ -198,6 +198,6 @@ ssh <login>@gpu-hub
 ---
 ## 5. Application for accounts on 4-gpu server & AGH Google accounts
 
-https://shorturl.at/1plqN
+https://forms.office.com/e/Kp2dBAy0Wr
 
 ---
