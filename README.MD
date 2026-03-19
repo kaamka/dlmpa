@@ -1,6 +1,6 @@
 # DL with massively parallel acceleration – Course Materials
 
-## 0. Using materials from this repository
+## 1. Using materials from this repository
 
 ### 1. Cloning the repository (first time only)
 
@@ -45,7 +45,7 @@ Always work on your own copy of the notebook (e.g. `*_yourname.ipynb`).
 Treat the notebooks in the repository as **templates with tasks**.
 
 
-## 1. Setting Up the Environment
+## 2. Setting Up the Environment
 
 ### 1.1. D10-204 room; using existing conda env (with CUDA)
 ```
@@ -148,7 +148,7 @@ source ml_course/bin/activate
 ```
 ---
 
-## 2. Structure of the Course
+## 3. Structure of the Course
 
 - The course is divided into **few main deep learning topics**.  
 - The first 1-2 week(s) are reserved for **warm-up, environment setup, and PyTorch basics**.  
@@ -165,7 +165,7 @@ source ml_course/bin/activate
 
 ---
 
-## 3. Projects
+## 4. Projects
 - Work in pairs
 - Topics: 
     - Extend workshop work
@@ -175,7 +175,7 @@ source ml_course/bin/activate
 
 ---
 
-## 4. Working remotely
+## 5. Working remotely
 
 ### Step 1.
 ``` 
