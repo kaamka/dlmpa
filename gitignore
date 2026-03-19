@@ -1,0 +1,40 @@
+# katalogi z danymi i wynikami
+data/*
+runs/*
+checkpoints/*
+logs/*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# virtualenv / conda
+venv/
+.env/
+env/
+.envrc
+.venv/
+
+# pip cache
+pip-log.txt
+*.egg-info/
+*.egg
+dist/
+build/
+
+# Jupyter / notebook
+.ipynb_checkpoints
+
+# IDE / edytory
+.vscode/
+
+# cache narzędzi ML
+*.ckpt
+*.h5
+*.pt
+*.pth
+*.log
+*.tensorboard
