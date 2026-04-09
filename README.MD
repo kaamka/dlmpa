@@ -195,6 +195,26 @@ ssh <login>@gpu-hub
 ```
 ⚠️ Skip Step 1. if you are inside AGH network!
 
+#### Using classic jupyter-notebook (browser version)
+
+1. Start Jupyter Notebook (no browser):
+
+        jupyter notebook --no-browser --port=8888
+
+2. Copy the URL with the token from the output.
+
+
+3. Create SSH tunnel (run locally):
+
+        ssh -L 8888:localhost:8888 username@server_ip
+
+4. Open in browser:
+
+      http://localhost:8888
+
+4. Paste the token to log in.
+5. Stop with `Ctrl+C`
+
 ---
 ## 5. Application for accounts on 4-gpu server & AGH Google accounts
 
