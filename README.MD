@@ -159,7 +159,7 @@ source ml_course/bin/activate
 - Each notebook contains:
   - A **baseline implementation** for the topic.
   - Several **exploration directions**, each with **two levels**:
-    - **Basic** – required for all students.  
+    - **Basic** 
     - **Deep** – choose **one favorite direction** to explore in depth.  
 - Evaluation will be done through **short discussions** or **presentations**, where you present your findings and conclusions.
 
